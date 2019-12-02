@@ -1,0 +1,38 @@
+---
+layout: none
+---
+{
+  "@id": "https://fit-bannerstones.github.io/nmnh-1/sequence/a34419d7_ms.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "https://fit-bannerstones.github.io/nmnh-1/canvas/a34419d7_ms.json",
+      "label": "front",
+      "width": 6580,
+      "height": 5208,
+      "thumbnail": "https://fit-bannerstones.github.io/nmnh-1/images/a34419d7_ms/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "https://fit-bannerstones.github.io/nmnh-1/annotation/a34419d7_ms.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "https://fit-bannerstones.github.io/nmnh-1/images/a34419d7_ms/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://fit-bannerstones.github.io/nmnh-1/images/a34419d7_ms",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 6580,
+            "height": 5208
+          },
+          "on": "https://fit-bannerstones.github.io/nmnh-1/canvas/a34419d7_ms.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
