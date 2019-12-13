@@ -5,8 +5,8 @@ layout: none
   "@type": "sc:Canvas",
   "@id": "https://fit-bannerstones.github.io/nmnh-1/canvas/a26977-1.json",
   "label": "front",
-  "width": 4200,
-  "height": 2800,
+  "width": 5184,
+  "height": 3456,
   "thumbnail": "https://fit-bannerstones.github.io/nmnh-1/images/a26977-1/full/250,/0/default.jpg",
   "images": [
     {
@@ -22,8 +22,8 @@ layout: none
           "@id": "https://fit-bannerstones.github.io/nmnh-1/images/a26977-1",
           "profile": "http://iiif.io/api/image/2/level0.json"
         },
-        "width": 4200,
-        "height": 2800
+        "width": 5184,
+        "height": 3456
       },
       "on": "https://fit-bannerstones.github.io/nmnh-1/canvas/a26977-1.json"
     }
